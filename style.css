@@ -1,10 +1,26 @@
 
+#presentacion {
+    min-height: 88vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-image: url("assets/fondo.avif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
-#proyecto-1 {
-    background-image: url('googleclon.png');
+.proyecto {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+}
+#proyecto-1 {
+    background-image: url('assets/googleclon.png');
+
+}
+#proyecto-2 {
+    background-image: url('Proyecto-bebidas/Preyecto\ fermentos.png');
 }
 
 .text-shadow-1 { text-shadow: 0 .125rem .25rem #370dfd;
@@ -12,5 +28,5 @@
 }
 
 .btn-primary {
-    --bs-btn-color: #fff;
+    --bs-btn-color: #080808;
     --bs-btn-bg: #d012e9;}
