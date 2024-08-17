@@ -28,6 +28,6 @@ typewriterFrase
   .typeString('Valentina Montenegro')
   .pauseFor(300)
   .deleteChars(20)
-  .typeString('El único tipo de fracaso es no intentarlo')
+  .typeString('Muchas ideas crecen mejor cuando se trasplantan a otra mente diferente de la que surgieron. – Oliver Wendell Holmes.')
   .pauseFor(1000)
   .start();

@@ -4,7 +4,7 @@
     display: flex;
     justify-content: start;
     align-items: center;
-    background-image: url("assets/fondo.avif");
+    background-image: url("assets/fondo.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -20,7 +20,7 @@
 
 }
 #proyecto-2 {
-    background-image: url('Proyecto-bebidas/Preyecto\ fermentos.png');
+    background-image: url('assets/Preyecto\ fermentos.png');
 }
 
 .text-shadow-1 { text-shadow: 0 .125rem .25rem #370dfd;
